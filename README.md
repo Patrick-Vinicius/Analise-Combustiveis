@@ -1,6 +1,6 @@
 
 
-# 📊 [Análise de Dados]
+# 📊 Análise de Dados
 
 ✅  Projeto concluído!  ✅
 
